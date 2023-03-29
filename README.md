@@ -1,7 +1,7 @@
 ### Hello 👋
 
 
-I'm Eugene. That's all you need to know.
+I'm Evgenii. That's all you need to know.
 It's a joke :)
 
 **Here you can find:**
