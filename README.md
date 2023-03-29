@@ -12,3 +12,6 @@ It's a joke :)
 **Here you can find:**
 - ITMO lab's;
 - some HTML, CSS and JavaScript
+
+![icons](https://user-images.githubusercontent.com/115372801/228607072-e40f76ed-61ac-454f-9cce-61a6ddb2236c.png)
+
