@@ -13,5 +13,6 @@ It's a joke :)
 - ITMO lab's;
 - some HTML, CSS and JavaScript
 
-![icons](https://user-images.githubusercontent.com/115372801/228607072-e40f76ed-61ac-454f-9cce-61a6ddb2236c.png)
+![icons2](https://user-images.githubusercontent.com/115372801/228607525-fcdaa287-6cbc-44fa-aff7-cc2759766bad.png)
+
 
