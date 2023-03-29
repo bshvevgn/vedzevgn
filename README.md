@@ -12,7 +12,8 @@ I'm Evgenii. That's all you need to know (joke).
 - ITMO lab's;
 - some HTML, CSS and JavaScript
 
-![icons4](https://user-images.githubusercontent.com/115372801/228608166-79cd9240-ab8b-4e09-8434-aa99d333615d.png)
+![icons5](https://user-images.githubusercontent.com/115372801/228608600-a2340e04-dbf5-452b-9d9e-0045e7220564.png)
+
 
 
 
