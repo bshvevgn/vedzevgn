@@ -4,7 +4,7 @@
 I'm Eugene. That's all you need to know (joke).
 Coder from Belarus 🇧🇾
 
-Student of ITMO university, Saint-Petersburg, Russia 🇷🇺
+Student of ITMO University, Saint-Petersburg, Russia 🇷🇺
 
 ![line](https://user-images.githubusercontent.com/115372801/228603269-91f18800-14b4-4ea0-b7a9-165e7203690d.png)
 
