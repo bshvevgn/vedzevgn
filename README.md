@@ -1,10 +1,9 @@
 
 ### Hello 👋
 
-I'm Eugene. That's all you need to know (joke).
-Coder from Belarus 🇧🇾
+I'm Eugene. Coder from Belarus 🇧🇾
 
-Student of ITMO University, Saint-Petersburg
+Student of ITMO University, Saint-Petersburg.
 
 **Here you can find:**
 - ITMO Java labs;
