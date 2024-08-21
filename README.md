@@ -11,7 +11,6 @@ Student of ITMO University, Saint-Petersburg.
 
 ![icons5](https://user-images.githubusercontent.com/115372801/228608600-a2340e04-dbf5-452b-9d9e-0045e7220564.png)
 
-<img src="https://myreadme.vercel.app/api/embed/bshvevgn?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
 
